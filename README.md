@@ -1,4 +1,4 @@
-# Angular-course
-Coursera Angular JS
+# Angular
+Angular JS Simple Project
 
-&& browser-sync start --server --directory --files "**/*"  to open localhost !!!
+
